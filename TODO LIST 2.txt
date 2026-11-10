@@ -1,11 +1,105 @@
-SEARCH:
+SEARCH BGMs (loop):
+P181
+P180
+P179
+P178
+P102 A
+
+SEARCH BGMs (one-shot):
+P129
+P102 B
+P100
+
+SEARCH SFXs:
+P175 Ax3, Bx3
+P174 x3
+P171
+P170 A, Bx3
+P169 A, B
+P168 A, B, D, E
+P167 Ax3, Bx2, Cx2
+P166 Ax3, Bx2
+P165 Ax3, Bx2, C
+P164 x2
+P163
+P162 x3
+P161 x3
+P160 x3
+P159 x2
+P158 Ax2, Bx2
+P157 x2
+P156
+P155
+P154
+P153
+P152
+P149
+P148 x2
+P146 A, Bx2
+P145 Ax4, Bx3, Cx2
+P144 Ax2, B
+P143 A
+P142 Ax2, B, Cx3
+P141 Ax3, Bx2
+P140 Bx2
+P139 Bx2
+P138 A, Bx2
+P137
+P136
+P135
+P134
+P128 x2
+P127 A
+P125 x2
+P124 A, Bx3
+P123 x3
+P120 Ax2, Bx2
+P118
+P115 A, B
+P114
+P113 A, B
+P112
+P111 A, B, C, D
+P110
+P107 A, B
+P106 Ax3, B
+P105 Ax2, Bx2
+P104 A, B, C, D, E, F
+P98
+63
+
+SEARCH SFXs (loop):
+P168 C
+P151
+P147
+P140 A
+P139 A
+P127 B
 
 SELECTED:
+P119
+P117
+P116 A, B
+P108 A, B, C
+
+REWORK:
+P176
+P133
+P132
+P131
+P130
+39
+
+DONE (unconvinced):
 
 DONE:
 L-104
-L-101 Ax3, Bx3, Cx3
 P-AY1
+P172 Ax3, Bx3, Cx3
+P126
+P122
+P121
+P109
 P99 x3
 P97 A, B
 P96 x2
@@ -13,8 +107,11 @@ P94
 P92 A, B
 
 FURTHER INSTRUCTIONS REQUIRED:
-P-AY1
-L-101 Dx3
-P98
-P95
-P93 A, B, C
+P172 aka L-101
+- Aclarar si "la caña hueca que cae en el 2-1" es otro sonido diferente que también se añade a los pedidos (y si necesita múltiples tomas"
+P177 / P103
+- Petición similar a la de voces de personajes que se descartó
+P95 / P93 A, B, C / P183
+- Necesito las melodías referenciadas correspondientes
+2 / P182
+- Necesito las cinemáticas correspondientes
